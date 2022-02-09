@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "count the number of view of the pagefor the current user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elodie Gueuret",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
